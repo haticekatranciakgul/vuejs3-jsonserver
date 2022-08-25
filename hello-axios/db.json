@@ -1,19 +1,24 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+    "todos": [
+      {
+        "id": 0,
+        "name": "Go to the gym",
+        "done": false
+      },
+      {
+        "id": 1,
+        "name": "Walk the dog",
+        "done": false
+      },
+      {
+        "id": 2,
+        "name": "Get some pizza",
+        "done": false
+      },
+      {
+        "name": "Finish this project",
+        "id": 3,
+        "done": false
+      }
+    ]
   }
-}
